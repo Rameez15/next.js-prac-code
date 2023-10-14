@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(89, 188, 241);
+}
+.border {
+  width: 350px;
+  display: flex;
+  border-style: solid;
+  border-radius: 11px;
+  justify-content: center;
+  box-shadow: 15px 15px 25px 10px #000;
+}
+
+.App {
+  padding-bottom: 20px;
+}
